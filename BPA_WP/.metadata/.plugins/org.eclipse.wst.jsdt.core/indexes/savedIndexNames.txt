@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\temp\Dsv\Proj\BPA_WP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1276540344.index
+2175985131.index
+4266023024.index
+612788295.index
+2234319079.index
